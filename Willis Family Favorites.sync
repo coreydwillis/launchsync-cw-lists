@@ -23,6 +23,10 @@ match = Sarge's Heroes (USA)
 system = N64
 match = Sarge's Heroes 2 (USA)
 
+[Star Fox 64 - N64]
+system = N64
+match = Star Fox 64
+
 [Mario 64 - N64]
 system = N64
 match = Mario 64
@@ -34,6 +38,14 @@ match = Banjo-Kazooie
 [Banjo-Tooie - N64]
 system = N64
 match = Banjo-Tooie
+
+[Mission Impossible - N64]
+system = N64
+match = Mission Impossible
+
+[Perfect Dark - N64]
+system = N64
+match = Perfect Dark
 
 [Rolo to the Rescue - Genesis]
 system = Genesis
