@@ -1,7 +1,7 @@
-name = Willis Family Favs
+name = Willis Favs Genesis
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Willis Favs Genesis.sync
-updated = 2025-03-07 11:31
+updated = 2025-03-07 11:42
 
 [Rolo to the Rescue]
 system = Genesis
@@ -25,11 +25,11 @@ match = Sonic the Hedgehog (USA
 
 [Sonic 2]
 system = Genesis
-match = Sonic the Hedgehog 2 (USA
+match = Sonic the Hedgehog 2
 
 [Sonic 3]
 system = Genesis
-match = Sonic the Hedgehog 3 (USA
+match = Sonic the Hedgehog 3
 
 [Sonic & Knuckles]
 system = Genesis
