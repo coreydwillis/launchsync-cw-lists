@@ -1,0 +1,1 @@
+Head over to [@wizzomafizzo]([url](https://github.com/wizzomafizzo/mrext/blob/main/docs/launchsync.md#sync-files))'s [LaunchSync ReadMe]([url](https://github.com/wizzomafizzo/mrext/blob/main/docs/launchsync.md#sync-files)) for instructions on how to use these sync files.
