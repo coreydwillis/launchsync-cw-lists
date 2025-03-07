@@ -1,7 +1,7 @@
 name = Willis Favs PSX
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Willis Favs PSX.sync
-updated = 2025-03-07 11:53
+updated = 2025-03-07 12:15
 
 [Resident Evil 2]
 system = PSX
@@ -38,55 +38,3 @@ match = Tekken 3
 [Tomb Raider]
 system = PSX
 match = Tomb Raider
-
-[Zelda - A Link to the Past]
-system = PSX
-match = Legend of Zelda - A Link to the Past
-
-[Mega Man X]
-system = PSX
-match = Mega Man X
-
-[Mortal Kombat]
-system = PSX
-match = Mortal Kombat (USA)
-
-[Zelda - A Link to the Past]
-system = PSX
-match = Legend of Zelda - A Link to the Past
-
-[Star Fox]
-system = PSX
-match = Star Fox (USA)
-
-[Super Mario All-Stars]
-system = PSX
-match = Super Mario All-Stars
-
-[Super Mario RPG]
-system = PSX
-match = Super Mario RPG
-
-[Super Mario World]
-system = PSX
-match = Super Mario World (USA)
-
-[Super Mario World 2]
-system = PSX
-match = Super Mario World 2
-
-[Super Metroid]
-system = PSX
-match = Super Metriod
-
-[Super Mario World 2]
-system = PSX
-match = Super Mario World 2
-
-[Tetris Attack]
-system = PSX
-match = Tetris Attack
-
-[Wario's Woods]
-system = PSX
-match = Wario's Woods

@@ -1,7 +1,7 @@
 name = Willis Favs SNES
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Willis Favs SNES.sync
-updated = 2025-03-07 11:53
+updated = 2025-03-07 12:15
 
 [Super Mario Kart]
 system = SNES
@@ -37,7 +37,7 @@ match = Kirby's Dream Course
 
 [Zelda - A Link to the Past]
 system = SNES
-match = Legend of Zelda - A Link to the Past
+match = A Link to the Past
 
 [Mega Man X]
 system = SNES
@@ -73,7 +73,7 @@ match = Super Mario World 2
 
 [Super Metroid]
 system = SNES
-match = Super Metriod
+match = Super Metroid
 
 [Super Mario World 2]
 system = SNES

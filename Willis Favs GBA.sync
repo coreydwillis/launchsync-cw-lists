@@ -1,15 +1,15 @@
 name = Willis Favs GBA
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Willis Favs GBA.sync
-updated = 2025-03-07 11:53
+updated = 2025-03-07 12:15
 
 [Advanced Wars]
 system = GBA
-match = Advanced Wars (USA)
+match = Advance Wars (USA)
 
 [Fire Emblem]
 system = GBA
-match = Fire Emblem (USA)
+match = Fire Emblem (USA
 
 [Link to the Past]
 system = GBA
@@ -35,6 +35,6 @@ match = Super Mario Advance 3
 system = GBA
 match = Super Mario Advance 4
 
-[Warioware Twisted]
+[Warioware - Twisted]
 system = GBA
-match = Warioware Twisted
+match = Warioware - Twisted

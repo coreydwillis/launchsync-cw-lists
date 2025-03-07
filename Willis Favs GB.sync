@@ -1,11 +1,11 @@
 name = Willis Favs GB
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Willis Favs GB.sync
-updated = 2025-03-07 11:53
+updated = 2025-03-07 12:15
 
 [Legend of Zelda Awakening]
 system = GB
-match = Legend of Zelda, Awakening
+match = Legend of Zelda
 
 [Mega Man]
 system = GB
@@ -29,8 +29,8 @@ match = Wario Land -
 
 [Super Mario Land 4]
 system = GB
-match = Wario Land 2
+match = Wario Land II
 
-[Spiritual Warefare]
+[Spiritual Warfare]
 system = GB
-match = Spiritual Warefare
+match = Spiritual Warfare
