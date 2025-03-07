@@ -1,7 +1,7 @@
 name = Willis Family Favs
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Willis Family Favorites.sync
-updated = 2025-03-07 11:14
+updated = 2025-03-07 11:31
 
 [Super Smash Bros - N64]
 system = N64
@@ -41,7 +41,11 @@ match = Banjo-Tooie
 
 [Mission Impossible - N64]
 system = N64
-match = Mission Impossible
+match = Mission - Impossible
+
+[Perfect Dark - N64]
+system = N64
+match = Perfect Dark
 
 [Perfect Dark - N64]
 system = N64
@@ -50,3 +54,59 @@ match = Perfect Dark
 [Rolo to the Rescue - Genesis]
 system = Genesis
 match = Rolo to the Rescue
+
+[Cyborg Justice - Genesis]
+system = Genesis
+match = Cyborg Justice
+
+[Jurassic Park - Genesis]
+system = Genesis
+match = Jurassic Park
+
+[Taz in Escape from Mars - Genesis]
+system = Genesis
+match = Taz in Escape from Mars
+
+[Sonic 1 - Genesis]
+system = Genesis
+match = Sonic the Hedgehot (USA
+
+[Sonic 2 - Genesis]
+system = Genesis
+match = Sonic the Hedgehot 2 (USA
+
+[Sonic 3 - Genesis]
+system = Genesis
+match = Sonic the Hedgehot 3 (USA
+
+[Sonic & Knuckles - Genesis]
+system = Genesis
+match = Sonic & Knuckles (World)
+
+[Sonic & Knuckles + Sonic 3 - Genesis]
+system = Genesis
+match = Sonic & Knuckles + Sonic the Hedgehog 3
+
+[Aero the Acro-Bat - Genesis]
+system = Genesis
+match = Aero the Acro-Bat
+
+[Road Rash - Genesis]
+system = Genesis
+match = Road Rash
+
+[Ecco the Dolphin - Genesis]
+system = Genesis
+match = Ecco the Dolphin
+
+[Primal Rage - Genesis]
+system = Genesis
+match = Primal Rage
+
+[Quackshot - Genesis]
+system = Genesis
+match = Quackshot
+
+[Talespin - Genesis]
+system = Genesis
+match = Talespin
