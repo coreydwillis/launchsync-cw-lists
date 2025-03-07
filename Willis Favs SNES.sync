@@ -1,8 +1,88 @@
 name = Willis Favs SNES
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Willis Favs SNES.sync
-updated = 2025-03-07 11:42
+updated = 2025-03-07 11:53
 
 [Super Mario Kart]
 system = SNES
 match = Super Mario Kart
+
+[Bubsy II]
+system = SNES
+match = Bubsy II
+
+[Donkey Kong Country]
+system = SNES
+match = Donkey Kong Country (USA)
+
+[Donkey Kong Country 2]
+system = SNES
+match = Donkey Kong Country 2
+
+[Super Mario Kart]
+system = SNES
+match = Donkey Kong Country 3
+
+[F-Zero]
+system = SNES
+match = F-Zero
+
+[Earthbound]
+system = SNES
+match = Earthbound
+
+[Kirby's Dream Course]
+system = SNES
+match = Kirby's Dream Course
+
+[Zelda - A Link to the Past]
+system = SNES
+match = Legend of Zelda - A Link to the Past
+
+[Mega Man X]
+system = SNES
+match = Mega Man X
+
+[Mortal Kombat]
+system = SNES
+match = Mortal Kombat (USA)
+
+[Zelda - A Link to the Past]
+system = SNES
+match = Legend of Zelda - A Link to the Past
+
+[Star Fox]
+system = SNES
+match = Star Fox (USA)
+
+[Super Mario All-Stars]
+system = SNES
+match = Super Mario All-Stars
+
+[Super Mario RPG]
+system = SNES
+match = Super Mario RPG
+
+[Super Mario World]
+system = SNES
+match = Super Mario World (USA)
+
+[Super Mario World 2]
+system = SNES
+match = Super Mario World 2
+
+[Super Metroid]
+system = SNES
+match = Super Metriod
+
+[Super Mario World 2]
+system = SNES
+match = Super Mario World 2
+
+[Tetris Attack]
+system = SNES
+match = Tetris Attack
+
+[Wario's Woods]
+system = SNES
+match = Wario's Woods
