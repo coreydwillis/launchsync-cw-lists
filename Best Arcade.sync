@@ -1,7 +1,7 @@
 name = Best Arcade
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best Arcade.sync
-updated = 2025-05-15 16:03
+updated = 2025-05-15 17:04
 
 [Alien vs. Predator]
 system = Arcade
@@ -9,7 +9,7 @@ match = Alien vs. Predator
 
 [X-Men]
 system = Arcade
-match = X-Men (4P players ver eba)
+match = X-Men (4 Players ver EBA)
 
 [Bionic Commando]
 system = Arcade
@@ -53,7 +53,7 @@ match = Bubble Bobble
 
 [Cyberbots: Fullmetal Madness]
 system = Arcade
-match = Cyberbots: Fullmetal Madness
+match = Cyberbots: Cyberbots Fullmetal Madness (Euro 950424)
 
 [Dig Dug]
 system = Arcade
@@ -105,7 +105,7 @@ match = Gun Smoke
 
 [Hyper Street Fighter II]
 system = Arcade
-match = Hyper Street Fighter II: The Anniversary Edition
+match = Hyper Street Fighter II The Anniversary Edition (USA 040202)
 
 [Joust]
 system = Arcade
@@ -129,11 +129,11 @@ match = Mega Man 2
 
 [Mario Bros.]
 system = Arcade
-match = Mario Bros (1983)
+match = Mario Bros. (US, Rev G)
 
 [Magic Sword: Heroic Fantasy]
 system = Arcade
-match = Magic Sword: Heroic Fantasy (World 900725)
+match = Magic Sword Heroic Fantasy (World 900725)
 
 [Mr. Goemon]
 system = Arcade
@@ -145,7 +145,11 @@ match = Nemo
 
 [Night Warriors: Darkstalkers' Revenge]
 system = Arcade
-match = Night Warriors: Darkstalkers' Revenge
+match = Night Warriors Darkstalkers' Revenge (Euro 950316)
+
+[Street Fighter Alpha 3]
+system = Arcade
+match = Street Fighter Alpha 3 (Euro 980904)
 
 [Marvel Super Heroes Vs. Street Fighter]
 system = Arcade
@@ -153,11 +157,11 @@ match = Marvel Super Heroes Vs. Street Fighter
 
 [Pac-Man]
 system = Arcade
-match = Pan-Man
+match = Pac-Man (Midway)
 
 [Q*Bert]
 system = Arcade
-match = Q*Bert
+match = Q'bert (US, Set 1)
 
 [Rampage]
 system = Arcade
@@ -169,7 +173,7 @@ match = Ring of Destruction
 
 [Street Fighter II': Champion Edition]
 system = Arcade
-match = Street Fighter II': Champion Edition
+match = Street Fighter II' Champion Edition (World 920513)
 
 [X-Men Vs. Street Fighter]
 system = Arcade
@@ -181,15 +185,15 @@ match = Strider (USA, B-Board 89624B-2)
 
 [Wacko]
 system = Arcade
-match = Wacko (1983)
+match = Wacko
 
 [Varth: Operation Thunderstorm]
 system = Arcade
 match = Varth: Operation Thunderstorm
 
-[Vampire Hunter 2: Darkstalkers Revenge]
+[Vampire Hunter 2 Darkstalkers Revenge]
 system = Arcade
-match = Vampire Hunter 2: Darkstalkers Revenge
+match = Vampire Hunter 2 Darkstalkers Revenge (Japan 970929)
 
 [Three Wonders]
 system = Arcade
@@ -235,9 +239,9 @@ match = DoDonPachi
 system = Arcade
 match = 19xx
 
-[Russian Attack]
+[Rush'n Attack]
 system = Arcade
-match = Russian Attack
+match = Rush'n Attack (US)
 
 [Merc]
 system = Arcade
