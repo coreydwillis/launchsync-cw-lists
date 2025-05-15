@@ -1,7 +1,7 @@
 name = Willis Favs Dos
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Willis Favs Dos.sync
-updated = 2025-05-15 10:42
+updated = 2025-05-15 10:51
 
 [Scorched Earth]
 system = AO486
@@ -31,9 +31,9 @@ match = Doom 2
 system = AO486
 match = Wolfenstein 3D
 
-[Wolfenstein Spear of Destiny]
+[Wolfenstein 3D Spear of Destiny]
 system = AO486
-match = Wolfenstein Spear of Destiny
+match = Wolfenstein 3D Spear of Destiny
 
 [Duke Nukem EP1]
 system = AO486
@@ -56,17 +56,17 @@ system = AO486
 match = Duke Nukem 3d
 
 
-[Elderscrolls Arena]
+[Elder Scrolls Arena]
 system = AO486
-match = Elderscrolls 1 Arena
+match = Elder Scrolls 1 Arena
 
-[Elderscrolls Daggerfall]
+[Elder Scrolls Daggerfall]
 system = AO486
-match = Elderscrolls 2 Daggerfall
+match = Elder Scrolls 2 Daggerfall
 
 [X-Com]
 system = AO486
-match = X-com ufo defense
+match = X-com 1
 
 [Alone in the Dark 1]
 system = AO486
@@ -132,9 +132,9 @@ match = Lemmings 3d
 system = AO486
 match = Neverwinter Nights
 
-[Oregon Tail Deluxe]
+[Oregon Trail Deluxe]
 system = AO486
-match = Oregon Tail Deluxe
+match = Oregon Trail Deluxe
 
 [Police Quest]
 system = AO486
@@ -146,7 +146,19 @@ match = Sam and Max Hit the Road
 
 [Sim City]
 system = AO486
-match = Sim City Enhanced
+match = SimCity Enhanced
+
+[Sim Farm]
+system = AO486
+match = Simfarm
+
+[Sim Ant]
+system = AO486
+match = SimAnt
+
+[Sim Tower]
+system = AO486
+match = SimTower
 
 [Sim City 2000]
 system = AO486
@@ -192,6 +204,6 @@ match = Worms
 system = AO486
 match = Zork 1
 
-[Zack McKracken]
+[Zak McKracken]
 system = AO486
-match = Zack McKracken
+match = Zak McKracken
