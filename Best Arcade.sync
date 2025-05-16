@@ -1,7 +1,7 @@
 name = Best Arcade
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best Arcade.sync
-updated = 2025-05-15 17:30
+updated = 2025-05-16 12:12
 
 [Alien vs. Predator]
 system = Arcade
@@ -74,6 +74,10 @@ match = Double Dragon
 [Donkey Kong Junior]
 system = Arcade
 match = Donkey Kong Junior
+
+[Donkey Kong]
+system = Arcade
+match = Donkey Kong (US, Set 1)
 
 [Final Fight]
 system = Arcade
