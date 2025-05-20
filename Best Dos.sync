@@ -1,7 +1,7 @@
 name = Best Dos
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best Dos.sync
-updated = 2025-05-15 16:03
+updated = 2025-05-20 14:34
 
 [Scorched Earth]
 system = AO486
@@ -71,6 +71,14 @@ match = X-com 1
 [Alone in the Dark 1]
 system = AO486
 match = Alone in the Dark 1
+
+[Alone in the Dark 2]
+system = AO486
+match = Alone in the Dark 2
+
+[Alone in the Dark 3]
+system = AO486
+match = Alone in the Dark 3
 
 [Blood]
 system = AO486
