@@ -3,6 +3,14 @@ author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best Arcade.sync
 updated = 2025-05-16 12:12
 
+[Teenage Mutant Ninja Turtles]
+system = Arcade
+match = Teenage Mutant Ninja Turtles (World 4 Players, version X)
+
+[Teenage Mutant Ninja Turtles - Turtles in Time]
+system = Arcade
+match = Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UAA)
+
 [Alien vs. Predator]
 system = Arcade
 match = Alien vs. Predator
