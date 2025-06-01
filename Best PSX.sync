@@ -3,6 +3,10 @@ author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best PSX.sync
 updated = 2025-05-15 16:03
 
+[Resident Evil]
+system = PSX
+match = Resident Evil (USA)
+
 [Resident Evil 2]
 system = PSX
 match = Resident Evil 2
@@ -14,6 +18,10 @@ match = Spider-Man (USA)
 [Spider-Man 2]
 system = PSX
 match = Spider-Man 2
+
+[Tony Hawk's Pro Skater]
+system = PSX
+match = Tony Hawk's Pro Skater (USA)
 
 [Tony Hawk's Pro Skater 2]
 system = PSX
@@ -27,6 +35,10 @@ match = Persona (USA)
 system = PSX
 match = Persona 2
 
+[King's Field]
+system = PSX
+match = King's Field (USA)
+
 [Spyro the Dragon]
 system = PSX
 match = Spyro the Dragon
@@ -38,3 +50,11 @@ match = Tekken 3
 [Tomb Raider]
 system = PSX
 match = Tomb Raider
+
+[Metal Gear Solid]
+system = PSX
+match = Metal Gear Solid (USA)
+
+[Chrono Cross]
+system = PSX
+match = Chrono Cross (USA) (Disc 1)
