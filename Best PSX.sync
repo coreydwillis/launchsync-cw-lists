@@ -1,11 +1,11 @@
 name = Best PSX
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best PSX.sync
-updated = 2025-06-01 15:11
+updated = 2025-06-06 13:13
 
 [Resident Evil]
 system = PSX
-match = Resident Evil (USA)
+match = Resident Evil - Director's Cut - Dual Shock Ver. (USA)
 
 [Resident Evil 2]
 system = PSX
