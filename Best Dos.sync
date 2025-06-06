@@ -72,14 +72,6 @@ match = X-com 1
 system = AO486
 match = Alone in the Dark 1
 
-[Alone in the Dark 2]
-system = AO486
-match = Alone in the Dark 2
-
-[Alone in the Dark 3]
-system = AO486
-match = Alone in the Dark 3
-
 [Blood]
 system = AO486
 match = Blood
