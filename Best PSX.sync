@@ -1,7 +1,7 @@
 name = Best PSX
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best PSX.sync
-updated = 2025-06-06 13:13
+updated = 2025-07-08 14:09
 
 [Resident Evil]
 system = PSX
@@ -58,3 +58,43 @@ match = Metal Gear Solid (USA)
 [Chrono Cross]
 system = PSX
 match = Chrono Cross (USA) (Disc 1)
+
+[Harry Potter and the Chamber of Secrets]
+system = PSX
+match = Harry Potter and the Chamber of Secrets
+
+[Harry Potter and the Philosopher's Stone]
+system = PSX
+match = Harry Potter and the Philosopher's Stone
+
+[Harry Potter to Kenja no Ishi]
+system = PSX
+match = Harry Potter to Kenja no Ishi (Japan)
+
+[Gran Turismo 2]
+system = PSX
+match = Gran Turismo 2 (USA) (Arcade Mode)
+
+[Tomb Raider]
+system = PSX
+match = Tomb Raider
+
+[Metal Gear Solid]
+system = PSX
+match = Metal Gear Solid (USA) (Disc 1)
+
+[Silent Hill]
+system = PSX
+match = Silent Hill (USA)
+
+[Syphon Filter]
+system = PSX
+match = Syphon Filter (USA)
+
+[You Don't Know Jack]
+system = PSX
+match = You Don't Know Jack (USA) (Disc 1)
+
+[Ape Escape]
+system = PSX
+match = Ape Escape
