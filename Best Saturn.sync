@@ -1,8 +1,56 @@
 name = Best Saturn
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best Saturn.sync
-updated = 2025-07-08 12:16
+updated = 2025-07-08 12:55
 
-[Dark Saviour]
+[Powerslave]
 system = Saturn
-match = Dark Saviour
+match = Powerslave
+
+[Die Hard Trilogy]
+system = Saturn
+match = Die Hard Trilogy (USA)
+
+[Die Hard Arcade]
+system = Saturn
+match = Die Hard Arcade (USA)
+
+[Dark Savior]
+system = Saturn
+match = Dark Savior (USA)
+
+[Sonic R]
+system = Saturn
+match = Sonic R
+
+[Panzer Dragoon (USA) (5S)]
+system = Saturn
+match = Panzer Dragoon (USA) (5S)
+
+[Fighters Megamix]
+system = Saturn
+match = Fighters Megamix
+
+[NiGHTS into Dreams]
+system = Saturn
+match = NiGHTS into Dreams
+
+[Guardian Heroes]
+system = Saturn
+match = Guardian Heroes
+
+[Guardian Heroes]
+system = Saturn
+match = Guardian Heroes
+
+[Sega Rally]
+system = Saturn
+match = Sega Rally Championship (USA)
+
+[Virtua fighter 2]
+system = Saturn
+match = Virtua fighter 2
+
+[Daytona USA]
+system = Saturn
+match = Daytona USA (USA)
