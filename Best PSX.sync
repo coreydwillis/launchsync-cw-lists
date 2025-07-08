@@ -1,7 +1,7 @@
 name = Best PSX
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best PSX.sync
-updated = 2025-07-08 14:09
+updated = 2025-07-08 14:20
 
 [Resident Evil]
 system = PSX
@@ -62,14 +62,6 @@ match = Chrono Cross (USA) (Disc 1)
 [Harry Potter and the Chamber of Secrets]
 system = PSX
 match = Harry Potter and the Chamber of Secrets
-
-[Harry Potter and the Philosopher's Stone]
-system = PSX
-match = Harry Potter and the Philosopher's Stone
-
-[Harry Potter to Kenja no Ishi]
-system = PSX
-match = Harry Potter to Kenja no Ishi (Japan)
 
 [Gran Turismo 2]
 system = PSX
