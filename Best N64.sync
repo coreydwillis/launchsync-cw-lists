@@ -1,7 +1,7 @@
 name = Best N64
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best N64.sync
-updated = 2025-05-15 16:03
+updated = 2025-07-08 13:43
 
 [Super Smash Bros]
 system = N64
@@ -47,6 +47,78 @@ match = Mission - Impossible
 system = N64
 match = Perfect Dark
 
-[Perfect Dark]
+[Mario Party]
 system = N64
-match = Perfect Dark
+match = Mario Party
+
+[Mario Party 2]
+system = N64
+match = Mario Party 2
+
+[Mario Party 3]
+system = N64
+match = Mario Party 3
+
+[Tony Hawk's Pro Skater]
+system = N64
+match = Tony Hawk's Pro Skater (USA)
+
+[Tony Hawk's Pro Skater 2]
+system = N64
+match = Tony Hawk's Pro Skater 2 (USA)
+
+[Turok]
+system = N64
+match = Turok
+
+[Turok 2]
+system = N64
+match = Turok 2
+
+[Tom Clancy's Rainbow Six]
+system = N64
+match = Tom Clancy's Rainbow Six
+
+[Worms Armageddon]
+system = N64
+match = Worms Armageddon
+
+[Yoshi's Story]
+system = N64
+match = Yoshi's Story (USA)
+
+[1080 Snowboarding]
+system = N64
+match = 1080 Snowboarding (USA)
+
+[Clay Fighter]
+system = N64
+match = Clay Fighter - Sculptor's Cut (USA)
+
+[Conker's Bad Fur Day]
+system = N64
+match = Conker's Bad Fur Day (USA)
+
+[Dr. Mario 64]
+system = N64
+match = Dr. Mario 64 (USA)
+
+[F-Zero X]
+system = N64
+match = F-Zero X (USA)
+
+[Paper Mario]
+system = N64
+match = Paper Mario (USA)
+
+[Road Rash 64]
+system = N64
+match = Road Rash 64 (USA)
+
+[Scooby-Doo! - Classic Creep Capers]
+system = N64
+match = Scooby-Doo! - Classic Creep Capers (USA)
+
+[Star Wars Episode I - Racer]
+system = N64
+match = Star Wars Episode I - Racer (USA)
