@@ -1,7 +1,7 @@
 name = Best Saturn
 author = Corey Willis
 url = https://raw.githubusercontent.com/coreydwillis/launchsync-cw-lists/refs/heads/main/Best Saturn.sync
-updated = 2025-07-08 12:55
+updated = 2025-07-08 13:27
 
 [Powerslave]
 system = Saturn
@@ -31,7 +31,7 @@ match = Sonic Jam
 system = Saturn
 match = Sonic 3D
 
-[Panzer Dragoon (USA) (5S)]
+[Panzer Dragoon]
 system = Saturn
 match = Panzer Dragoon (USA) (5S)
 
